@@ -187,16 +187,16 @@ This repository contains comprehensive practical assignments for the Software Mo
       </tr>
         <tr>
         <td align="center">
-          <img src="https://i.ibb.co/zZb06kq/6-5.png" alt="6-5" border="0" width="200" height="400">
+          <img src="https://i.ibb.co/zZb06kq/6-5.png" alt="6-5" border="0" width="200" height="300">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/3Wwn5W8/6-6.png" alt="6-6" border="0" width="200" height="400">
+          <img src="https://i.ibb.co/3Wwn5W8/6-6.png" alt="6-6" border="0" width="200" height="300">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/bHCpWjj/6-7.png" alt="6-7" border="0" width="200" height="400">
+          <img src="https://i.ibb.co/bHCpWjj/6-7.png" alt="6-7" border="0" width="200" height="300">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/fkk8tHj/6-8.png" alt="6-8" border="0" width="200" height="400">
+          <img src="https://i.ibb.co/fkk8tHj/6-8.png" alt="6-8" border="0" width="200" height="300">
         </td>
       </tr>
     </table>
