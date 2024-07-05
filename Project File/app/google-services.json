@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1039435157917",
+    "project_id": "smd-assignments",
+    "storage_bucket": "smd-assignments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039435157917:android:e42eb3dd8267c40935df74",
+        "android_client_info": {
+          "package_name": "com.example.smd_assignments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039435157917-0ahinpp4b4442lmlifdgai8ono00ecl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYKw0_hmUGtJVePdilO25RcXHEawmanMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039435157917-0ahinpp4b4442lmlifdgai8ono00ecl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

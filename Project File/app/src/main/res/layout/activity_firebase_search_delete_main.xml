@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/image3_6"
+    tools:context=".Assignment_6.Firebase_Search_Delete_MainActivity">
+
+    <Button
+        android:id="@+id/back4"
+        android:layout_width="51dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/baseline_arrow_back_ios_24"
+        android:contentDescription="@string/hello_first_fragment"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.044"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonSearch"
+        android:layout_width="60dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="172dp"
+        android:layout_marginEnd="48dp"
+        android:background="@drawable/baseline_person_search_24"
+        android:contentDescription="@string/hello_first_fragment"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/txtRegNoSearch"
+        android:layout_width="232dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="160dp"
+        android:ems="10"
+        android:hint="Reg No"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toStartOf="@+id/buttonSearch"
+        app:layout_constraintHorizontal_bias="0.676"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonDelete"
+        android:layout_width="151dp"
+        android:layout_height="63dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginBottom="36dp"
+        android:background="#00000000"
+        android:text="Delete"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <EditText
+        android:id="@+id/txtsetname"
+        android:layout_width="300dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="56dp"
+        android:ems="10"
+        android:textColorHint="#887AE3"
+        android:textSize="20dp"
+        android:textColor="#887AE3"
+        android:hint="Name"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtRegNoSearch" />
+
+    <EditText
+        android:id="@+id/txtsetdept"
+        android:layout_width="300dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:hint="dept"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textColor="#887AE3"
+        android:textColorHint="#887AE3"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtsetname" />
+
+    <EditText
+        android:id="@+id/txtsetcgpa"
+        android:layout_width="296dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:hint="cgpa"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textColor="#887AE3"
+        android:textColorHint="#887AE3"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtsetdept" />
+
+    <EditText
+        android:id="@+id/txtsetemail"
+        android:layout_width="300dp"
+        android:layout_height="54dp"
+        android:layout_marginTop="28dp"
+        android:ems="10"
+        android:hint="email"
+        android:inputType="textPersonName"
+        android:minHeight="48dp"
+        android:textColor="#887AE3"
+        android:textColorHint="#887AE3"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtsetcgpa" />
+
+    <Button
+        android:id="@+id/buttonUpdate"
+        android:layout_width="146dp"
+        android:layout_height="69dp"
+        android:layout_marginBottom="36dp"
+        android:background="#00000000"
+        android:text="Update"
+        android:textColor="@color/white"
+        android:textSize="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/buttonDelete"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

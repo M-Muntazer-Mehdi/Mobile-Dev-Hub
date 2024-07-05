@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_menuform"
+    tools:context=".Assignment_1.Task_1">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteY="0dp">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="100dp"
+            android:layout_weight="1"
+            android:text="@string/welcome_home"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="140dp"
+        android:layout_marginBottom="420dp">
+
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:layout_weight="1"
+            android:backgroundTint="#41020202"
+            android:background="@drawable/rounded_corner"
+            android:elevation="2dp"
+            android:padding="22dp"
+            android:shadowColor="@color/white"
+            android:drawableTop="@drawable/baseline_king_bed_24"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="@string/bed_nroom"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            tools:ignore="TextSizeCheck,VisualLintButtonSize"
+            style="?android:attr/buttonBarButtonStyle" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:layout_marginBottom="7dp"
+            android:layout_weight="1"
+            android:backgroundTint="#41020202"
+            android:background="@drawable/rounded_corner"
+            android:elevation="2dp"
+            android:padding="22dp"
+            android:shadowColor="@color/white"
+            android:drawableTop="@drawable/baseline_tv_24"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="@string/living_nroom"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            tools:ignore="TextSizeCheck,VisualLintButtonSize"
+            style="?android:attr/buttonBarButtonStyle" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:layout_weight="1"
+            android:backgroundTint="#41020202"
+            android:background="@drawable/rounded_corner"
+            android:elevation="2dp"
+            android:padding="22dp"
+            android:shadowColor="@color/white"
+            android:drawableTop="@drawable/baseline_kitchen_24"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="@string/kitchen_nroom"
+            android:textSize="17sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            tools:ignore="TextSizeCheck,VisualLintButtonSize"
+            style="?android:attr/buttonBarButtonStyle" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="310dp"
+        android:layout_marginBottom="250dp">
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:layout_weight="1"
+            android:backgroundTint="#41020202"
+            android:background="@drawable/rounded_corner"
+            android:elevation="2dp"
+            android:padding="22dp"
+            android:shadowColor="@color/white"
+            android:drawableTop="@drawable/baseline_bathtub_24"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="@string/bath_nroom"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            tools:ignore="TextSizeCheck,VisualLintButtonSize"
+            style="?android:attr/buttonBarButtonStyle" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:layout_marginBottom="7dp"
+            android:layout_weight="1"
+            android:backgroundTint="#41020202"
+            android:background="@drawable/rounded_corner"
+            android:elevation="2dp"
+            android:padding="22dp"
+            android:shadowColor="@color/white"
+            android:drawableTop="@drawable/baseline_bedroom_baby_24"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="@string/kid_nsroom"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            tools:ignore="TextSizeCheck,VisualLintButtonSize"
+            style="?android:attr/buttonBarButtonStyle" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="7dp"
+            android:layout_weight="1"
+            android:backgroundTint="#41020202"
+            android:background="@drawable/rounded_corner"
+            android:elevation="2dp"
+            android:padding="22dp"
+            android:shadowColor="@color/white"
+            android:drawableTop="@drawable/baseline_dining_24"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="@string/dining_nroom"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            tools:ignore="TextSizeCheck,VisualLintButtonSize"
+            style="?android:attr/buttonBarButtonStyle" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="-520dp"
+        android:background="@color/white"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        app:layout_constraintVertical_bias="0.32999998"
+        tools:ignore="MissingConstraints" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginTop="500dp"
+        android:layout_marginBottom="160dp">
+
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="222dp"
+            android:layout_height="82dp"
+            android:layout_marginStart="22dp"
+            android:layout_weight="1"
+            android:background="#00FFFFFF"
+            android:drawableStart="@drawable/baseline_lightbulb_24"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="@string/light_control"
+            android:textAlignment="textStart"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            tools:ignore="TextSizeCheck,VisualLintButtonSize,VisualLintBounds" />
+
+        <Switch
+            android:id="@+id/switch1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="50dp"
+            android:layout_weight="1"
+            android:minHeight="48dp"
+            android:scaleX="2"
+            android:scaleY="2"
+            android:textColorHighlight="#DF1A1A"
+            tools:ignore="UseSwitchCompatOrMaterialXml,DuplicateSpeakableTextCheck,VisualLintBounds,VisualLintButtonSize" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:layout_marginTop="580dp">
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="222dp"
+            android:layout_height="82dp"
+            android:layout_marginStart="22dp"
+            android:layout_weight="1"
+            android:background="#00FFFFFF"
+            android:drawableStart="@drawable/baseline_electrical_services_24"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="@string/power_supply"
+            android:textAlignment="textStart"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            tools:ignore="TextSizeCheck,VisualLintButtonSize" />
+
+        <Switch
+            android:id="@+id/switch2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginEnd="50dp"
+            android:minHeight="48dp"
+            android:scaleY="2"
+            android:scaleX="2"
+            tools:ignore="UseSwitchCompatOrMaterialXml,VisualLintButtonSize" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

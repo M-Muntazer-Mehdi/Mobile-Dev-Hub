@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtfirstname" type="id" />
+    <item name="edtsecondname" type="id" />
+    <item name="edtphonenumber" type="id" />
+    <item name="edtemail" type="id" />
+    <item name="edthomeaddress" type="id" />
+</resources>
