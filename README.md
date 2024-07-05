@@ -1,6 +1,6 @@
 # Mobile-Dev-Hub
 
-This repository contains all practical assignments for the Software Mobile Development course, implemented using Java in Android Studio. Each assignment covers different aspects of mobile application development, from basic UI design to complex functionality like music playback and database management.
+This repository contains comprehensive practical assignments for the Software Mobile Development course, all implemented in Java using Android Studio. Each assignment is meticulously designed to cover various essential aspects of mobile application development, ranging from basic user interface design to advanced functionalities like multimedia handling and database management. These assignments collectively provide a robust foundation in developing efficient, user-friendly, and feature-rich mobile applications.
 
 ## Table of Contents
 
