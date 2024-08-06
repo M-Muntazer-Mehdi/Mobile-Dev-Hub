@@ -27,10 +27,10 @@ This repository contains comprehensive practical assignments for the Software Mo
     <table align="center">
       <tr>
         <td align="center">
-          <img src="https://i.ibb.co/x6R8Vxc/1-1.png" alt="1-1" border="0" width="200" height="400">
+          <img src="https://i.ibb.co/x6R8Vxc/1-1.png" border="0" width="200" height="400">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/TvxZrBq/1-2.png" alt="1-2" border="0" width="200" height="400">
+          <img src="https://i.ibb.co/TvxZrBq/1-2.png" border="0" width="200" height="400">
         </td>
       </tr>
     </table>
@@ -54,13 +54,13 @@ This repository contains comprehensive practical assignments for the Software Mo
     <table align="center">
       <tr>
         <td align="center">
-          <img src="https://i.ibb.co/p416rjK/2-1.png" alt="2-1" border="0" width="200" height="400">
+          <img src="https://i.ibb.co/p416rjK/2-1.png" border="0" width="200" height="400">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/F5NGpNp/2-2.png" alt="2-2" border="0" width="200" height="400">
+          <img src="https://i.ibb.co/F5NGpNp/2-2.png" border="0" width="200" height="400">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/5Km4qPk/2-3.png" alt="2-3" border="0" width="200" height="400">
+          <img src="https://i.ibb.co/5Km4qPk/2-3.png" border="0" width="200" height="400">
         </td>
       </tr>
     </table>
@@ -83,13 +83,13 @@ This repository contains comprehensive practical assignments for the Software Mo
     <table align="center">
       <tr>
         <td align="center">
-          <img src="https://i.ibb.co/p009tXM/3-1.png" alt="3-1" border="0" width="200" height="370">
+          <img src="https://i.ibb.co/p009tXM/3-1.png" border="0" width="200" height="370">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/sjMRpq0/3-2.png" alt="3-2" border="0" width="200" height="370">
+          <img src="https://i.ibb.co/sjMRpq0/3-2.png" border="0" width="200" height="370">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/Dz8nngP/3-3.png" alt="3-3" border="0" width="200" height="370">
+          <img src="https://i.ibb.co/Dz8nngP/3-3.png" border="0" width="200" height="370">
         </td>
       </tr>
     </table>
@@ -112,10 +112,10 @@ This repository contains comprehensive practical assignments for the Software Mo
     <table align="center">
       <tr>
         <td align="center">
-          <img src="https://i.ibb.co/cD6DyFx/4-1.png" alt="4-1" border="0" width="200" height="400">
+          <img src="https://i.ibb.co/cD6DyFx/4-1.png"  border="0" width="200" height="400">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/L5wj3zg/4-2.png" alt="4-2" border="0" width="200" height="400">
+          <img src="https://i.ibb.co/L5wj3zg/4-2.png" border="0" width="200" height="400">
         </td>
       </tr>
     </table>
@@ -138,13 +138,13 @@ This repository contains comprehensive practical assignments for the Software Mo
     <table align="center">
       <tr>
         <td align="center">
-          <img src="https://i.ibb.co/nD0MhP0/5-1.png" alt="5-1" border="0" width="200" height="400">
+          <img src="https://i.ibb.co/nD0MhP0/5-1.png" border="0" width="200" height="400">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/VJrqxvN/5-2.png" alt="5-2" border="0" width="200" height="400">
+          <img src="https://i.ibb.co/VJrqxvN/5-2.png" border="0" width="200" height="400">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/80vH7Rd/5-3.png" alt="5-3" border="0" width="200" height="400">
+          <img src="https://i.ibb.co/80vH7Rd/5-3.png" border="0" width="200" height="400">
         </td>
       </tr>
     </table>
@@ -173,30 +173,30 @@ This repository contains comprehensive practical assignments for the Software Mo
     <table align="center">
       <tr>
         <td align="center">
-          <img src="https://i.ibb.co/d0WZRbJ/6-1.png" alt="6-1" border="0" width="200" height="300">
+          <img src="https://i.ibb.co/d0WZRbJ/6-1.png" border="0" width="200" height="300">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/QcQHGcW/6-2.png" alt="6-2" border="0" width="200" height="300">
+          <img src="https://i.ibb.co/QcQHGcW/6-2.png" border="0" width="200" height="300">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/Rv9qFQ0/6-3.png" alt="6-3" border="0" width="200" height="300">
+          <img src="https://i.ibb.co/Rv9qFQ0/6-3.png" border="0" width="200" height="300">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/cXm1Q57/6-4.png" alt="6-4" border="0" width="200" height="300">
+          <img src="https://i.ibb.co/cXm1Q57/6-4.png" border="0" width="200" height="300">
         </td>
       </tr>
         <tr>
         <td align="center">
-          <img src="https://i.ibb.co/zZb06kq/6-5.png" alt="6-5" border="0" width="200" height="300">
+          <img src="https://i.ibb.co/zZb06kq/6-5.png" border="0" width="200" height="300">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/3Wwn5W8/6-6.png" alt="6-6" border="0" width="200" height="300">
+          <img src="https://i.ibb.co/3Wwn5W8/6-6.png" border="0" width="200" height="300">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/bHCpWjj/6-7.png" alt="6-7" border="0" width="200" height="300">
+          <img src="https://i.ibb.co/bHCpWjj/6-7.png" border="0" width="200" height="300">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/fkk8tHj/6-8.png" alt="6-8" border="0" width="200" height="300">
+          <img src="https://i.ibb.co/fkk8tHj/6-8.png" border="0" width="200" height="300">
         </td>
       </tr>
     </table>
