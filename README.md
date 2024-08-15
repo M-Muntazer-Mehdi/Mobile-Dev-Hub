@@ -179,7 +179,7 @@ This repository contains comprehensive practical assignments for the Software Mo
           <img src="https://i.ibb.co/QcQHGcW/6-2.png" border="0" width="200" height="300">
         </td>
         <td align="center">
-          <img src="https://i.ibb.co/Rv9qFQ0/6-3.png" border="0" width="200" height="300">
+          <img src="https://i.postimg.cc/9QsyxThv/6-3.png" border="0" width="200" height="300">
         </td>
         <td align="center">
           <img src="https://i.ibb.co/cXm1Q57/6-4.png" border="0" width="200" height="300">
